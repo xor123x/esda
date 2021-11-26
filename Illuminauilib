@@ -283,7 +283,7 @@ do
 						Size = UDim2.new(1, -46, 0, 16),
 						ZIndex = 5,
 						Font = Enum.Font.GothamBold,
-						Text = title,
+						Text = "Sidded From Nutron AKA Kazato#4380",
 						TextColor3 = themes.TextColor,
 						TextSize = 14,
 						TextXAlignment = Enum.TextXAlignment.Left
